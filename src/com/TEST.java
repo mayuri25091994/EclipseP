@@ -8,6 +8,10 @@ public class TEST {
 		
 		System.out.println("2 - new line");
 		
+		System.out.println("3");
+		
+		
+		
 
 	}
 
